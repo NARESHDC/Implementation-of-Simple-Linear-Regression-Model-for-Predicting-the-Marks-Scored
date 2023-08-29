@@ -68,6 +68,8 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
+![download](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/4b3957fd-3a36-4d22-ba6e-cb7204cd2f84)
+
 ![download](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/0f5b3275-abac-4d48-a56f-b7634d559a81)
 
 
