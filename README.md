@@ -68,10 +68,35 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![download](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/4b3957fd-3a36-4d22-ba6e-cb7204cd2f84)
+## Dataset:
+![dataset](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/c7816d33-6dab-45e2-8d19-9a11e9583cb5)
 
-![download](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/0f5b3275-abac-4d48-a56f-b7634d559a81)
+## Head values:
+![head](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/7f3d7783-4601-4e70-989f-2ccbf87d0765)
+
+## Tail values:
+![tail](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/5343e114-fe3a-4ad7-8058-6b81db462fdc)
+ 
+
+## X and Y values:
+![xyvalues](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/f84947e0-99a3-444c-8286-c59cc0660a4e)
 
 
+ ## Predication values of X and Y:
+![predict ](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/6ea46100-8530-4491-821e-079308a1eef5)
+
+ ## MSE,MAE and RMSE:
+![values](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/0f3750f1-fec0-4008-abcf-7e7b971d82a9)
+
+
+ ## Training Set:
+![263971254-4b3957fd-3a36-4d22-ba6e-cb7204cd2f84](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/088c3714-a70d-4ef0-b952-1d26c48e1fa8)
+
+
+ ## Testing Set:
+
+![263970887-0f5b3275-abac-4d48-a56f-b7634d559a81](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/aa18e6a5-11f7-410e-bbd6-89c052ff52a6)
+
+ 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
