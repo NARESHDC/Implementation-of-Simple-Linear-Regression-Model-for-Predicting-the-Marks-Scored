@@ -7,21 +7,21 @@ To write a program to predict the marks scored by a student using the simple lin
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm:
-
-1.Import the standard Libraries.
-2.Set variables for assigning dataset values.
-3.Import linear regression from sklearn.
-4.Assign the points for representing in the graph.
-5.Predict the regression for marks by using the representation of the graph.
-6.Compare the graphs and hence we obtained the linear regression for the given datas.
+## Algorithm
+1. Import the standard Libraries.
+2. Set variables for assigning dataset values.
+3. Import linear regression from sklearn.
+4. Assign the points for representing in the graph.
+5. Predict the regression for marks by using the representation of the graph.
+6. Compare the graphs and hence we obtained the linear regression for the given
+   datas. 
 
 ## Program:
-```C
+```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: CHARUMATHI R
-RegisterNumber: 212222240021 
+Developed by:NARESH.M
+RegisterNumber:  212223220064
 */
 import pandas as pd
 import numpy as np
@@ -63,40 +63,44 @@ mse=mean_absolute_error(y_test,y_pred)
 print('MSE = ',mse)
 mae=mean_absolute_error(y_test,y_pred)
 print('MAE = ',mae)
+print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
+
 ```
 
 ## Output:
-## Dataset:
-![dataset](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/c7816d33-6dab-45e2-8d19-9a11e9583cb5)
+Dataset:
 
-## Head values:
-![head](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/7f3d7783-4601-4e70-989f-2ccbf87d0765)
+![image](https://github.com/rajalakshmi8248/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/122860827/e522e106-0a1a-47b3-be66-1c1ce1b7deed)
 
-## Tail values:
-![tail](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/5343e114-fe3a-4ad7-8058-6b81db462fdc)
+Head values:
  
+![image](https://github.com/rajalakshmi8248/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/122860827/447b086f-f37f-4e67-8b11-9dd1feb66f74)
 
-## X and Y values:
-![xyvalues](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/f84947e0-99a3-444c-8286-c59cc0660a4e)
+Tail values:
 
+![image](https://github.com/rajalakshmi8248/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/122860827/76d40c4b-12eb-46ae-a84c-baa0dc5e2f07)
 
- ## Predication values of X and Y:
-![predict ](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/6ea46100-8530-4491-821e-079308a1eef5)
+X and Y values:
 
- ## MSE,MAE and RMSE:
-![values](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/0f3750f1-fec0-4008-abcf-7e7b971d82a9)
+![image](https://github.com/rajalakshmi8248/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/122860827/737fc7eb-1931-458e-ad88-2dcab0b3b5cc)
 
+Predication values of X and Y:
 
- ## Training Set:
-![263971254-4b3957fd-3a36-4d22-ba6e-cb7204cd2f84](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/088c3714-a70d-4ef0-b952-1d26c48e1fa8)
+![image](https://github.com/rajalakshmi8248/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/122860827/b0b25d32-73b2-43b6-9369-0ebbb8ebb3b4)
 
+MSE,MAE and RMSE:
 
- ## Testing Set:
+![image](https://github.com/rajalakshmi8248/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/122860827/7e9f72f9-1766-4ef8-b1f9-b249b85bcebd)
 
-![263970887-0f5b3275-abac-4d48-a56f-b7634d559a81](https://github.com/charumathiramesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120204455/aa18e6a5-11f7-410e-bbd6-89c052ff52a6)
+Training Set:
 
- 
+![image](https://github.com/rajalakshmi8248/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/122860827/95ad35ad-9e05-42c7-a70c-35f02b22e12e)
+
+Testing Set:
+
+![image](https://github.com/rajalakshmi8248/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/122860827/8543f186-7155-413d-a60a-ffe20c0bf1a0)
+
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
